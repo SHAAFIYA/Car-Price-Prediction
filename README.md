@@ -1,9 +1,9 @@
 CAR PRICE PREDICTION
 
-OVERVIEW
+OVERVIEW:
 This project aims to predict used car prices using machine learning techniques. It analyzes various factors affecting car pricing, such as year, manufacturer, model, fuel type, odometer reading, and title status to generate accurate price predictions.
 
-DATASET
+DATASET:
 •	Source: OASIS INFOBYTE (8,200 car listings)
 •	Features Used: Year, Manufacturer, Model, Fuel Type, Odometer, Title Status, and Price (Target Variable)
 •	Preprocessing Steps:
@@ -12,17 +12,17 @@ o	Filtered out zero-valued prices
 o	Handled missing values using mean imputation
 o	Applied outlier detection and label encoding for categorical variables
 
-MACHINE LEARNING MODELS USED
+MACHINE LEARNING MODELS USED:
 1.	Random Forest Regressor (Best Performing Model)
 2.	Gradient Boosting Regressor
 3.	Extra Trees Regressor
 
-MODEL EVALUATION METRICS
+MODEL EVALUATION METRICS:
 •	R-Squared (R²): Measures model accuracy (best model achieved 0.8341)
 •	Mean Squared Error (MSE): Measures overall error magnitude
 •	Mean Absolute Error (MAE): Evaluates absolute error magnitude
 
-KEY FINDINGS
+KEY FINDINGS:
 1. Model Accuracy:
 •	Random Forest Regressor achieved the highest R² score (0.8341), making it the most accurate model.
 2. Data Preprocessing Impact:
