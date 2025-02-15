@@ -1,4 +1,4 @@
-CAR PRICE PREDICTION USING MACHINE LEARNING
+CAR PRICE PREDICTION
 
 OVERVIEW
 
@@ -19,6 +19,7 @@ o	Filtered out zero-valued prices
 o	Handled missing values using mean imputation
 
 o	Applied outlier detection and label encoding for categorical variables
+
 MACHINE LEARNING MODELS USED
 
 1.	Random Forest Regressor (Best Performing Model)
@@ -37,25 +38,32 @@ MODEL EVALUATION METRICS
 
 KEY FINDINGS
 
-1. Model Accuracy
+1. Model Accuracy:
+
 •	Random Forest Regressor achieved the highest R² score (0.8341), making it the most accurate model.
 
-2. Data Preprocessing Impact
+2. Data Preprocessing Impact:
+   
 •	Feature selection, data cleaning, and preprocessing significantly improved prediction accuracy.
 
-3. Model Robustness
+3. Model Robustness:
+   
 •	The model performed well across various data distributions, demonstrating its robustness in price prediction.
 
-4. Generalization Capability
+4. Generalization Capability:
+   
 •	Ensemble methods like Random Forest and Extra Trees provided better generalization compared to single regression models.
 
-5. Exploratory Data Analysis (EDA) Insights
+5. Exploratory Data Analysis (EDA) Insights:
+    
 •	Exploratory Data Analysis (EDA) revealed key insights into manufacturer trends and fuel type distributions.
 
-6. Market Alignment
+6. Market Alignment:
+    
 •	The pricing predictions aligned well with market trends, demonstrating the model's practical applicability.
 
-7. Performance Optimization
+7. Performance Optimization:
+
 •	Hyperparameter tuning further optimized model performance, reducing errors and improving accuracy.
 
 
