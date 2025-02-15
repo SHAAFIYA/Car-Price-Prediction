@@ -40,30 +40,30 @@ KEY FINDINGS
 
 1. Model Accuracy:
 
-•	Random Forest Regressor achieved the highest R² score (0.8341), making it the most accurate model.
+   •	Random Forest Regressor achieved the highest R² score (0.8341), making it the most accurate model.
 
 2. Data Preprocessing Impact:
    
-•	Feature selection, data cleaning, and preprocessing significantly improved prediction accuracy.
+   •	Feature selection, data cleaning, and preprocessing significantly improved prediction accuracy.
 
 3. Model Robustness:
    
-•	The model performed well across various data distributions, demonstrating its robustness in price prediction.
+   •	The model performed well across various data distributions, demonstrating its robustness in price prediction.
 
 4. Generalization Capability:
    
-•	Ensemble methods like Random Forest and Extra Trees provided better generalization compared to single regression models.
+   •	Ensemble methods like Random Forest and Extra Trees provided better generalization compared to single regression models.
 
 5. Exploratory Data Analysis (EDA) Insights:
     
-•	Exploratory Data Analysis (EDA) revealed key insights into manufacturer trends and fuel type distributions.
+   •	Exploratory Data Analysis (EDA) revealed key insights into manufacturer trends and fuel type distributions.
 
 6. Market Alignment:
     
-•	The pricing predictions aligned well with market trends, demonstrating the model's practical applicability.
+   •	The pricing predictions aligned well with market trends, demonstrating the model's practical applicability.
 
 7. Performance Optimization:
 
-•	Hyperparameter tuning further optimized model performance, reducing errors and improving accuracy.
+   •	Hyperparameter tuning further optimized model performance, reducing errors and improving accuracy.
 
 
